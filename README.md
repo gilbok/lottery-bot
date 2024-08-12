@@ -15,4 +15,4 @@
 # Reference 
 - https://github.com/roeniss/dhlottery-api
 
-2024-07-02
+2024-08-12
